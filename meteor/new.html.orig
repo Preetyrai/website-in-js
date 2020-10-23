@@ -1,14 +1,22 @@
-<meta charset="utf-8">
+    <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
     <link rel="stylesheet" href="assets/css/style-starter.css">
   </head>
   <body>
+<<<<<<< HEAD
 <h1>Photo</h1>
 <h2>this is testing heading</h2>
 <h3>this is third heading</h3>
 <h4>This is forth heading</h4>
 <h5>this is fifth heading</h5>
+<h5>this is Sixth heading</h5>
+=======
+<h1>fghjk</h1>
+<h2>this is heading 2</h2>
+<h6>this is heading</h6>
+>>>>>>> photo
+
 <!-- Smooth scrolling -->
 
 
